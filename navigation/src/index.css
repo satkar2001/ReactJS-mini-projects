@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button{
+  float:left;
+}
+li{
+  list-style-type: none;
+  font-size: 40px;
+  color: white;
+  font-weight:bold;
+  margin-bottom: 30px;
+}
+.maindiv{
+  background: #2c3e50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 100vh;
+transition: 0.2s;
+
+}
