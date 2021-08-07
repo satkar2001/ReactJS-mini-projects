@@ -12,3 +12,4 @@ function Footer(){
 
 }
 export default Footer
+//footer file
